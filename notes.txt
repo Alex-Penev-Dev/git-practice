@@ -1,1 +1,2 @@
 Learning Git after Linux
+Git workflow is becoming clear
