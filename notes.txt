@@ -1,1 +1,1 @@
-Git basics learned on Ubuntu
+Learning Git after Linux
